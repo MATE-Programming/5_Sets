@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/5_Sets/blob/main/lab_5.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_5.svg?raw=true)
 # Практическое задание на тему Множества
 
 #### 1. Удалите сразу значения 10, 20, 30 из следующего множества.
